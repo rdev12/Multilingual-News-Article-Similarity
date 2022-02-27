@@ -1,3 +1,3 @@
-### Team Innovators at SemEval 2022 Task 8
-
-### Multilingual-News-Article-Similarity
+# Multilingual News Article Similarity
+## Introduction
+This repository is the code for Team Innovator's submission of [SemEval 2022 Task 8](https://competitions.codalab.org/competitions/33835) paper titled "Multi-Task Training with Hyperpartisian and Semantic Relation for Multi-Lingual News Article Similarity". The shared task emphasizes finding the similarity of multilingual news articles irrespective of the style of writing, political spin, tone, or any othermore subjective "design decision" imposed by a medium/outlet. We propose a pipeline consisting of text rank to filter irrelevant information followed by a multi-task approach which allows multiple sub-tasks to share the same encoder during training, facilitating knowledge transfer. 
