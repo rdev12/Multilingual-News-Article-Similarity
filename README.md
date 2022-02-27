@@ -10,7 +10,7 @@ The model is trained on multiple subtasks as outlined below. The results are eva
 
 | Subtask | Description | Dataset |
 |--|--|--|
-| Semantic Textual Similarity  | Determine how semantically similar two pieces of text are. | [STS benchmark](hhttps://huggingface.co/datasets/glue#stsb) |
+| Semantic Textual Similarity  | Determine how semantically similar two pieces of text are. | [STS benchmark](https://huggingface.co/datasets/glue#stsb) |
 | Hyperpartisan detection | Given a news article, decide whether it follows a hyperpartisan argumentation, i.e., whether it exhibits blind, prejudiced, or unreasoning allegiance to one party, faction, cause, or person. | [Hyperpartisan News Detection](https://pan.webis.de/data.html#pan-semeval-hyperpartisan-news-detection-19) |
 | Stance detection | It involves estimating the relative perspective (or stance) of two pieces of text respective to a topic, claim or issue. | [Fake News Challenge - 1](https://github.com/FakeNewsChallenge/fnc-1) |
 | Fake news inference detection | Fake news Detection using the Natural Language Inference. This entails categorizing a piece of text into categories such as "pants-on-fire", "false", "barely true", "half-true", "mostly true", and "true." | [Fake News Inference Dataset](https://ieee-dataport.org/open-access/fnid-fake-news-inference-dataset) |
